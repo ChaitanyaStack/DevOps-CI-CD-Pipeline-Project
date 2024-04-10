@@ -1,4 +1,4 @@
-# DevOps-CI-CD-Pipeline-Project-InstructionsGuide #
+# DevOps-CI-CD-Pipeline-Project #
 
 ## Introduction
 
