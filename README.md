@@ -6,7 +6,7 @@ Welcome to the **DevOps CI/CD Pipeline Automation Project**. This repository off
 
 ## Objectives
 
-The primary objective of this repository is to provide clear, step-by-step implementation documents that facilitate the setup of a full-fledged DevOps CI/CD pipeline. This pipeline encompasses various stages of software delivery, from code integration to production deployment, using a suite of industry-standard DevOps tools.
+This repository aims to offer concise, step-by-step guides for establishing a comprehensive DevOps CI/CD pipeline, covering all phases from code integration to production deployment with industry-standard tools.
 
 ## Tools and Technologies
 
