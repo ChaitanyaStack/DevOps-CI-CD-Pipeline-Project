@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the **DevOps Continuous Integration / Continuous Delivery (CI/CD) Pipeline Automation Project**. This repository serves as a comprehensive guide and a toolkit for IT professionals, DevOps engineers, and enthusiasts looking to establish a robust CI/CD pipeline. By leveraging this repository, users can construct and manage an end-to-end deployment pipeline, ensuring the agility and high availability of software applications.
+Welcome to the **DevOps CI/CD Pipeline Automation Project**. This repository offers a detailed guide and toolkit for IT professionals and DevOps engineers to build a robust CI/CD pipeline, enabling agile and reliable software application deployment.
 
 ## Objectives
 
